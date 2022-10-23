@@ -3,7 +3,7 @@ Ingénieur logiciel diplômé avec 3 ans et 5 mois d'expériences professionnell
 ## Portfolio
 
 ### [Campus Tour](https://youtu.be/x4qiSbWoKxc)
-<img src="https://user-images.githubusercontent.com/111090400/197367034-658cb480-002f-45d5-b903-bdf0cb321d3b.png" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/111090400/197367034-658cb480-002f-45d5-b903-bdf0cb321d3b.png" />
 
 Application Web qui permet aux ambassadeurs de l'Université d'Ottawa de visualiser et de modifier les tournées du campus. Ceci est un projet qui fut complété en part du cours de Capstone du programme d'ingénieur logiciel de l'Université d'Ottawa.
 
