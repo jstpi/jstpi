@@ -16,4 +16,4 @@ Projet pour le cours ITI1521 de l'Université d'Ottawa. Ce projet est une implé
 
 ## [Game Vitrail](https://github.com/jstpi/Game-Vitrail)
 <img src="https://user-images.githubusercontent.com/111090400/197367645-60bd1303-5d79-4796-b0aa-5bfb200c78ca.png" width="200" height="300" />
-Project pour le cours CSI2772 de l'Université d'Ottawa. Ce project est une implémentation en c++ d'une version du jeu: "Vitrail". Ce jeu est affiché dans le terminal.
+Project pour le cours CSI2772 de l'Université d'Ottawa. Ce projet est une implémentation en c++ d'une version du jeu: "Vitrail". Ce jeu est affiché dans le terminal.
