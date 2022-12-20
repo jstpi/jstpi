@@ -6,8 +6,8 @@
           </td>
         </tr>
         <tr align="center">
-            <td><a href="https://github.com/jstpi/AI-Game-Snake"><img src="https://user-images.githubusercontent.com/111090400/208716744-d24c18bf-5c1a-4c86-aa51-eef85b7525c2.png" width="70%" ></a></td>
-            <td><a href="https://github.com/jstpi/Game-FloodIt"><img src="https://user-images.githubusercontent.com/111090400/208717162-2059cd12-fcfe-4e5d-b4cb-b738ccc77dd4.png" width="70%" ></a></td>
+            <td><a href="https://github.com/jstpi/AI-Game-Snake"><img src="https://user-images.githubusercontent.com/111090400/208718844-30580e39-a920-4496-a3ef-956dbb826903.png" width="70%" ></a></td>
+            <td><a href="https://github.com/jstpi/Game-FloodIt"><img src="https://user-images.githubusercontent.com/111090400/208718925-831ee63f-343e-471c-9d8f-0bbad309ea35.png" width="70%" ></a></td>
             <td><a href="https://github.com/jstpi/Game-Vitrail"><img src="https://user-images.githubusercontent.com/111090400/208717324-37ade21d-3eb7-49a6-8f31-1dadec73e3f7.png" width="60%" ></a></td>
         </tr>
     </tbody>
